@@ -1,0 +1,15 @@
+# 공개 저장소에는 리소스(이미지·다운로드·목록·출처)만 올린다. 아래는 로컬 관리 파일이다.
+/docs/
+/scripts/
+/requirements.txt
+/.python-version
+/release.json
+/README.txt
+/index.html
+/dist/
+/.local/
+/.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.10.16",
+  "repository": "HoneyOfOneDayButterfly/novelstory-background",
+  "assets": [
+    {
+      "id": "all",
+      "label": "전체 배경",
+      "file": "novelstory-background-all.zip",
+      "bytes": 12712115,
+      "sha256": "a76e79cffe23ab7b360dfbfe42b292932f4b560b6b246244c28ead39580e8468",
+      "imageCount": 407,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-all.zip"
+    },
+    {
+      "id": "dark",
+      "label": "밤",
+      "file": "novelstory-background-dark.zip",
+      "bytes": 958239,
+      "sha256": "462264c227391d0b6670e20d660e921cef00e929702116849a1319eebfece550",
+      "imageCount": 29,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-dark.zip"
+    },
+    {
+      "id": "ink",
+      "label": "먹",
+      "file": "novelstory-background-ink.zip",
+      "bytes": 975603,
+      "sha256": "c1769f328eee5200088df9124547d93ad79455dd4e17327de8449193f25f4226",
+      "imageCount": 27,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-ink.zip"
+    },
+    {
+      "id": "forest",
+      "label": "숲",
+      "file": "novelstory-background-forest.zip",
+      "bytes": 737349,
+      "sha256": "1bf35157f25016df9aad526e8968dcec206f5bee8b51a00dbb79caa22b658a44",
+      "imageCount": 26,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-forest.zip"
+    },
+    {
+      "id": "metal",
+      "label": "메탈",
+      "file": "novelstory-background-metal.zip",
+      "bytes": 999421,
+      "sha256": "9e24ac39e014d3eedf51c083d4614ad5e69814d1ebca3a15560bc3611741177c",
+      "imageCount": 25,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-metal.zip"
+    },
+    {
+      "id": "cyberpunk",
+      "label": "사이버펑크",
+      "file": "novelstory-background-cyberpunk.zip",
+      "bytes": 695559,
+      "sha256": "fc01199a11d02c93b570578e6bea3535145237379fd999be5d32f02f6d73ca1c",
+      "imageCount": 27,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-cyberpunk.zip"
+    },
+    {
+      "id": "light",
+      "label": "낮",
+      "file": "novelstory-background-light.zip",
+      "bytes": 903152,
+      "sha256": "3b008a0cb31c619cfa731ef1ee2a1cc79c7f8aca374a5b543a992b9398106f76",
+      "imageCount": 28,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-light.zip"
+    },
+    {
+      "id": "sepia",
+      "label": "세피아",
+      "file": "novelstory-background-sepia.zip",
+      "bytes": 1015442,
+      "sha256": "17b5e79534bf52d0fc9d22b972ced4a5a50e51bd53d4c9a23b89b32413733cb6",
+      "imageCount": 29,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-sepia.zip"
+    },
+    {
+      "id": "dawn",
+      "label": "새벽",
+      "file": "novelstory-background-dawn.zip",
+      "bytes": 612117,
+      "sha256": "e069afc356c3be53a8a0a84604bbf3651d1626206f8419d3ba04949d7548e43b",
+      "imageCount": 24,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-dawn.zip"
+    },
+    {
+      "id": "white",
+      "label": "화이트",
+      "file": "novelstory-background-white.zip",
+      "bytes": 610082,
+      "sha256": "4310fb4d2539dfa9bd1cd44cb5e54a6491c763bb9bd88b129ec66183b14df11a",
+      "imageCount": 26,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-white.zip"
+    },
+    {
+      "id": "crystal",
+      "label": "크리스탈",
+      "file": "novelstory-background-crystal.zip",
+      "bytes": 608414,
+      "sha256": "d8daab0c5fa560a7090429c8e6528d3faf2aaa327d70728fd86a7710dfa006cb",
+      "imageCount": 25,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-crystal.zip"
+    },
+    {
+      "id": "sakura",
+      "label": "벚꽃",
+      "file": "novelstory-background-sakura.zip",
+      "bytes": 702489,
+      "sha256": "ee84d65a1cbf07e40bc744254af7c20c8f2e7a0ec0c3bdaabe3f2219bc698f68",
+      "imageCount": 26,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-sakura.zip"
+    },
+    {
+      "id": "warm-dark",
+      "label": "따뜻한 다크",
+      "file": "novelstory-background-warm-dark.zip",
+      "bytes": 1160495,
+      "sha256": "f0d152f43e40958d32b3b6462cf92c20b96bb7df9b15827fbc07a1c779fd5488",
+      "imageCount": 26,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-warm-dark.zip"
+    },
+    {
+      "id": "green-light",
+      "label": "그린 라이트",
+      "file": "novelstory-background-green-light.zip",
+      "bytes": 737343,
+      "sha256": "316857fe29fa56a0de498081e23a06f5dc046a4643a4cbc3d1022c387dcdaf45",
+      "imageCount": 23,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-green-light.zip"
+    },
+    {
+      "id": "pastel-light",
+      "label": "파스텔 라이트",
+      "file": "novelstory-background-pastel-light.zip",
+      "bytes": 660900,
+      "sha256": "0876e477776bfca0d0d2cf4307af3a8b5abd76748b6a8814c12e527a22374498",
+      "imageCount": 23,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-pastel-light.zip"
+    },
+    {
+      "id": "teal-dark",
+      "label": "청록 다크",
+      "file": "novelstory-background-teal-dark.zip",
+      "bytes": 785642,
+      "sha256": "042d104759988dacc2826b55909f39b10a308f1797493e3f229b297d0f3c3fec",
+      "imageCount": 22,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-teal-dark.zip"
+    },
+    {
+      "id": "plum-dark",
+      "label": "자주 다크",
+      "file": "novelstory-background-plum-dark.zip",
+      "bytes": 550053,
+      "sha256": "5b63dedd8cf36cc6f8c83f0083e3bcfa73592877d9484bc9ef533bdce2b9247c",
+      "imageCount": 21,
+      "url": "https://github.com/HoneyOfOneDayButterfly/novelstory-background/raw/main/downloads/novelstory-background-plum-dark.zip"
+    }
+  ]
+}
